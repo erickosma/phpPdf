@@ -1,0 +1,7 @@
+{
+    "name": "zoy/phpPdf",
+    "type": "php",
+    "require": {
+        "smalot/pdfparser": "^0.10.0"
+    }
+}
