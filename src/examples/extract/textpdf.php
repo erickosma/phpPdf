@@ -3,10 +3,10 @@
  * Exemple extract text from PDF document
  */
 //get root path
-$rootDir = realpath(dirname( __FILE__)."/../../");
+$rootDir = realpath(dirname( __FILE__)."/../../../");
 
 // Include Composer autoloader if not already done.
-include $rootDir. "/vendor/autoload.php";
+require $rootDir . "/vendor/autoload.php";
 
 // Parse pdf file and build necessary objects.
 $parser = new \Smalot\PdfParser\Parser();
