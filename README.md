@@ -3,8 +3,6 @@ Inntrodução
 
 
 
-
-
 Projeto de com exemplo de manipulação de **PDF** com **PHP**.
 Extração de texto de PDF e imagens 
 1. Extrair texto de um PDF
@@ -27,7 +25,7 @@ Adicionar o  PDFParser no seu arquivo  composer.json  :
 ```json
     {
         "require": {
-            "smalot/pdfparser": "*"
+            "smalot/pdfparser": "^0.10.0"
         }
     }
  ```
