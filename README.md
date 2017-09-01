@@ -3,7 +3,7 @@ Inntrodução
 
 
 
-Projeto de com exemplo de manipulação de **PDF** com **PHP**.
+Projeto com exemplo de manipulação de **PDF** com **PHP**.
 Extração de texto de PDF e imagens 
 1. Extrair texto de um PDF
 2. Extrair imagem de um PDF
@@ -15,7 +15,7 @@ Extração de texto de PDF e imagens
 
 
 
-# Extrair texto de um pdf 
+# Extrair texto de arquivo  pdf 
 
 ## Install
 
