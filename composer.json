@@ -2,6 +2,6 @@
     "name": "zoy/phpPdf",
     "type": "php",
     "require": {
-        "smalot/pdfparser": "^0.10.0"
+        "smalot/pdfparser": "^v2.12.3 "
     }
 }
